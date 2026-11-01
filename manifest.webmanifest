@@ -1,0 +1,10 @@
+{
+  "name": "MyProgress — Suivi sportif",
+  "short_name": "MyProgress",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#071521",
+  "theme_color": "#071521",
+  "description": "Suivi sportif personnel : poids, exercices, séances et progression.",
+  "icons": []
+}
